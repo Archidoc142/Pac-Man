@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Ardyn\OneDrive - Cegep de Sherbrooke\Pac-Man\Pac-Man\main.cpp(3,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  Pac-Man.vcxproj -> C:\Users\Ardyn\OneDrive - Cegep de Sherbrooke\Pac-Man\x64\Debug\Pac-Man.exe
+  C:\Users\Ardyn\OneDrive - Cegep de Sherbrooke\Pac-Man\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\x64\Debug\openal32.dll
+  1 fichier(s) copiÚ(s)
